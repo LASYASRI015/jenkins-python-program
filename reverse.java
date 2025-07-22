@@ -11,7 +11,8 @@ r=n%10;
 rev=(rev*10)+r;
 n=n/10;
 }
-System.out.println("reverse of a number",+rev);
+System.out.println("reverse of a number", + rev);
 }
 }
 
+ 
